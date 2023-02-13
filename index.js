@@ -14,7 +14,7 @@ function displayDate(){
     dateElement.innerHTML = `${currentTime}`;
 }
 
-displayTime()
-displayDate()
+displayTime();
+displayDate();
 
-console.log('Hello world!')
+console.log('Hello world!');
